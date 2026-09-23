@@ -1,0 +1,5 @@
+# Runtime requirement
+R >= 4.0
+
+# External R packages
+# None - base R is sufficient.
